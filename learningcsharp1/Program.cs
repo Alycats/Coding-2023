@@ -5,11 +5,15 @@ class Program
     {
 string username;
 
+string response;
+
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Please Enter Your Name");
         username = Console.ReadLine();
-        Console.WriteLine($"Goodbye, {username}!");
         Console.WriteLine("How Are You?");
+        response = Console.ReadLine();
+        Console.WriteLine($"{response}?");
+        Console.WriteLine($"Goodbye, {username}!");
         Console.ReadKey(true);
     }
 }
