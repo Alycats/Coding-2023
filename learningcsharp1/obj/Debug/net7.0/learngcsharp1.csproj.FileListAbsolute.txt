@@ -1,0 +1,15 @@
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/bin/Debug/net7.0/learngcsharp1
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/bin/Debug/net7.0/learngcsharp1.deps.json
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/bin/Debug/net7.0/learngcsharp1.runtimeconfig.json
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/bin/Debug/net7.0/learngcsharp1.dll
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/bin/Debug/net7.0/learngcsharp1.pdb
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/learngcsharp1.csproj.AssemblyReference.cache
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/learngcsharp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/learngcsharp1.AssemblyInfoInputs.cache
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/learngcsharp1.AssemblyInfo.cs
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/learngcsharp1.csproj.CoreCompileInputs.cache
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/learngcsharp1.dll
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/refint/learngcsharp1.dll
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/learngcsharp1.pdb
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/learngcsharp1.genruntimeconfig.cache
+/Users/alyclark/Downloads/Coding 2023/learningcsharp1/obj/Debug/net7.0/ref/learngcsharp1.dll
