@@ -8,7 +8,8 @@ string username;
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Please Enter Your Name");
         username = Console.ReadLine();
-        Consoleg.WriteLine($"Goodbye, {username}!");
+        Console.WriteLine($"Goodbye, {username}!");
+        Console.WriteLine("How Are You?");
         Console.ReadKey(true);
     }
 }
